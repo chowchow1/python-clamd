@@ -1,17 +1,10 @@
-clamd
-=====
-
-.. image:: https://travis-ci.org/graingert/python-clamd.png?branch=master
-   :alt: travis build status
-   :target: https://travis-ci.org/graingert/python-clamd
-
 About
 -----
-`clamd` is a portable Python module to use the ClamAV anti-virus engine on 
+`python-mollusc` is a portable Python module to use the ClamAV anti-virus engine on 
 Windows, Linux, MacOSX and other platforms. It requires a running instance of 
 the `clamd` daemon.
 
-This is a fork of pyClamd v0.2.0 created by Philippe Lagadec and published on his website: http://www.decalage.info/en/python/pyclamd which in turn is a slightly improved version of pyClamd v0.1.1 created by Alexandre Norman and published on his website: http://xael.org/norman/python/pyclamd/
+This is a fork of https://github.com/graingert/python-clamd
 
 Usage
 -----
@@ -42,7 +35,7 @@ To scan a stream::
 
 License
 -------
-`clamd` is released as open-source software under the LGPL license.
+`python-mollusc` is released as open-source software under the LGPL license.
 
 clamd Install
 -------------
