@@ -14,6 +14,7 @@ setup(
     keywords = "python, clamav, antivirus, scanner, virus, libclamav, clamd",
     description = "Python clamd client (fork of python-clamd)",
     long_description=readme + '\n\n' + history,
+    license="LGPL-3.0-or-later",
     url="https://github.com/chowchow1/python-mollusc",
     package_dir={'': 'src'},
     packages=find_packages('src', exclude="tests"),

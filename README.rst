@@ -35,7 +35,7 @@ To scan a stream::
 
 License
 -------
-`python-mollusc` is released as open-source software under the LGPL license.
+`python-mollusc` is released as open-source software under the LGPLv3 (or later) license.
 
 clamd Install
 -------------
